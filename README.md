@@ -1,36 +1,20 @@
-# Alpha
-  [License](https://img.shields.io/badge/license-MIT-blue.svg)
+# Dynamic README Generator
 
-  ## Description
-  An independent startup for an app designed to catalogue wild animals
+## Description
+For the module 9 challenge, I have created an application that uses prompts to get answers to certain questions and processes those answers to instantly create an organized README.md file containing all the relevant information gained from the user's inputs.
 
-  ## Table of Contents
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  
-- [License](#license)
+## Usage
+In order to use the application, the user must install Node.js on their device, use the commands "npm i inquirer" and "npm i fs" in their command line terminal to install the inquirer and fs packages respectively, then run the application using the command "node index.js"
 
-  - [Contributions](#contributions)
-  - [Testing](#testing)
-  - [Contacts](#contacts)
+## Technologies
+1. Javascript - provides functionality for prompts, file formatting, and app initialization
 
-  ## Installation
-  Go to the app store
+2. Node.js - provides framework for testing
 
-  ## Usage
-  Uses note-taking software to compare data to relevant search history information in order to identify any species of wild animal
+## Links
 
-    ## License
-This project is licensed under the MIT license.
+1. GitHub account: https://github.com/HashemE1999
 
-  ## Contributions
-  Visit my GitHub repository
+2. GitHub repo: https://github.com/HashemE1999/dynamic-readme-generator
 
-  ## Testing
-  TBD
-
-  ## Contacts
-  For questions and/or business inquiries, please reach out to me at:
-  - GitHub: [HashemE1999](https://github.com/HashemE1999)
-  - Email: [hashem_elmaghrabi@yahoo.com](mailto:hashem_elmaghrabi@yahoo.com)
+3. Demo video: 
