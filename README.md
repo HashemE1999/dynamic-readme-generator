@@ -17,4 +17,4 @@ In order to use the application, the user must install Node.js on their device, 
 
 2. GitHub repo: https://github.com/HashemE1999/dynamic-readme-generator
 
-3. Demo video: 
+3. Demo video: [text](<../../../Downloads/Untitled Video July 30, 2024 10_02 PM.webm>)
